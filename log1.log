@@ -1,0 +1,142 @@
+2022-04-25 18:35:39,743 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Starting SecurityAndLoggingApplication using Java 17.0.2 on LAPTOP-15LLBAB1 with PID 19256 (C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging\target\classes started by gianf in C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging) 
+2022-04-25 18:35:39,792 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - No active profile set, falling back to 1 default profile: "default" 
+2022-04-25 18:35:41,268 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2022-04-25 18:35:41,418 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 117 ms. Found 1 JPA repository interfaces. 
+2022-04-25 18:35:43,297 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8181 (http) 
+2022-04-25 18:35:43,331 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:43,333 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat] 
+2022-04-25 18:35:43,334 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.62] 
+2022-04-25 18:35:43,749 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext 
+2022-04-25 18:35:43,750 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 3813 ms 
+2022-04-25 18:35:44,650 [main] INFO  o.h.j.i.u.LogHelper                                - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2022-04-25 18:35:44,659 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Starting SecurityAndLoggingApplication using Java 17.0.2 on LAPTOP-15LLBAB1 with PID 16984 (C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging\target\classes started by gianf in C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging) 
+2022-04-25 18:35:44,695 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - No active profile set, falling back to 1 default profile: "default" 
+2022-04-25 18:35:44,888 [main] INFO  o.h.Version                                        - HHH000412: Hibernate ORM core version 5.6.8.Final 
+2022-04-25 18:35:45,523 [main] INFO  o.h.a.c.Version                                    - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2022-04-25 18:35:45,921 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Starting... 
+2022-04-25 18:35:46,933 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2022-04-25 18:35:47,030 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Start completed. 
+2022-04-25 18:35:47,102 [main] INFO  o.h.d.Dialect                                      - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect 
+2022-04-25 18:35:47,142 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 174 ms. Found 1 JPA repository interfaces. 
+2022-04-25 18:35:50,063 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8181 (http) 
+2022-04-25 18:35:50,104 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:50,122 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat] 
+2022-04-25 18:35:50,128 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.62] 
+2022-04-25 18:35:50,445 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext 
+2022-04-25 18:35:50,445 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 5566 ms 
+2022-04-25 18:35:50,586 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2022-04-25 18:35:50,611 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:35:51,454 [main] INFO  o.h.j.i.u.LogHelper                                - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2022-04-25 18:35:51,710 [main] INFO  o.h.Version                                        - HHH000412: Hibernate ORM core version 5.6.8.Final 
+2022-04-25 18:35:52,254 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2022-04-25 18:35:52,330 [main] INFO  o.h.a.c.Version                                    - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2022-04-25 18:35:52,742 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Starting... 
+2022-04-25 18:35:52,839 [main] INFO  o.s.s.w.DefaultSecurityFilterChain                 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@254d8ef6, org.springframework.security.web.context.SecurityContextPersistenceFilter@1c25deb0, org.springframework.security.web.header.HeaderWriterFilter@5543d800, org.springframework.security.web.authentication.logout.LogoutFilter@792b9dd3, com.example.security.logging.security.JWTAuthenticationFilter@2a9e7b4d, com.example.security.logging.security.JWTAuthorizationFilter@72406594, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66ab088c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@13f7c165, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e1104f4, org.springframework.security.web.session.SessionManagementFilter@58e4aa67, org.springframework.security.web.access.ExceptionTranslationFilter@4e210016, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@25fcdcc6] 
+2022-04-25 18:35:53,910 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Start completed. 
+2022-04-25 18:35:53,948 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:53,978 [main] INFO  o.h.d.Dialect                                      - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect 
+2022-04-25 18:35:54,075 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8181 (http) with context path '' 
+2022-04-25 18:35:54,128 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Started SecurityAndLoggingApplication in 15.081 seconds (JVM running for 16.826) 
+2022-04-25 18:35:56,055 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2022-04-25 18:35:56,080 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:35:57,551 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2022-04-25 18:35:58,179 [main] INFO  o.s.s.w.DefaultSecurityFilterChain                 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4cd1716d, org.springframework.security.web.context.SecurityContextPersistenceFilter@59d29065, org.springframework.security.web.header.HeaderWriterFilter@43dddfdd, org.springframework.security.web.authentication.logout.LogoutFilter@42a7e7e1, com.example.security.logging.security.JWTAuthenticationFilter@3e1c5e0d, com.example.security.logging.security.JWTAuthorizationFilter@6f7a65e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@303db609, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7fcfe065, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@29bf90fc, org.springframework.security.web.session.SessionManagementFilter@7267006e, org.springframework.security.web.access.ExceptionTranslationFilter@210e2f2f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5db66c3] 
+2022-04-25 18:35:59,243 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:59,262 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8181 is already in use 
+2022-04-25 18:35:59,268 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:35:59,278 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Shutdown initiated... 
+2022-04-25 18:35:59,299 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Shutdown completed. 
+2022-04-25 18:35:59,309 [main] INFO  o.a.c.h.Http11NioProtocol                          - Pausing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:59,311 [main] INFO  o.a.c.c.StandardService                            - Stopping service [Tomcat] 
+2022-04-25 18:35:59,327 [main] INFO  o.a.c.h.Http11NioProtocol                          - Stopping ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:59,329 [main] INFO  o.a.c.h.Http11NioProtocol                          - Destroying ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:35:59,355 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2022-04-25 18:35:59,429 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8181 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8181 or configure this application to listen on another port.
+ 
+2022-04-25 18:49:30,688 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Starting SecurityAndLoggingApplication using Java 17.0.2 on LAPTOP-15LLBAB1 with PID 18996 (C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging\target\classes started by gianf in C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging) 
+2022-04-25 18:49:30,733 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - No active profile set, falling back to 1 default profile: "default" 
+2022-04-25 18:49:32,295 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2022-04-25 18:49:32,456 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 137 ms. Found 1 JPA repository interfaces. 
+2022-04-25 18:49:34,284 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8181 (http) 
+2022-04-25 18:49:34,311 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:49:34,313 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat] 
+2022-04-25 18:49:34,314 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.62] 
+2022-04-25 18:49:34,648 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext 
+2022-04-25 18:49:34,648 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 3796 ms 
+2022-04-25 18:49:35,368 [main] INFO  o.h.j.i.u.LogHelper                                - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2022-04-25 18:49:35,522 [main] INFO  o.h.Version                                        - HHH000412: Hibernate ORM core version 5.6.8.Final 
+2022-04-25 18:49:35,975 [main] INFO  o.h.a.c.Version                                    - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2022-04-25 18:49:36,261 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Starting... 
+2022-04-25 18:49:37,016 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Start completed. 
+2022-04-25 18:49:37,058 [main] INFO  o.h.d.Dialect                                      - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect 
+2022-04-25 18:49:38,866 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2022-04-25 18:49:38,879 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:49:39,797 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2022-04-25 18:49:40,226 [main] INFO  o.s.s.w.DefaultSecurityFilterChain                 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@37ab1b10, org.springframework.security.web.context.SecurityContextPersistenceFilter@6ad0cd43, org.springframework.security.web.header.HeaderWriterFilter@394b9e22, org.springframework.security.web.authentication.logout.LogoutFilter@e2344da, com.example.security.logging.security.JWTAuthenticationFilter@55d87b73, com.example.security.logging.security.JWTAuthorizationFilter@618e7761, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7fe0ca60, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@31f5ffb9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5b643d6e, org.springframework.security.web.session.SessionManagementFilter@4fe9adfb, org.springframework.security.web.access.ExceptionTranslationFilter@6d4f266, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@655f92a1] 
+2022-04-25 18:49:40,995 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:49:41,005 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8181 is already in use 
+2022-04-25 18:49:41,010 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:49:41,014 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Shutdown initiated... 
+2022-04-25 18:49:41,025 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Shutdown completed. 
+2022-04-25 18:49:41,029 [main] INFO  o.a.c.h.Http11NioProtocol                          - Pausing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:49:41,029 [main] INFO  o.a.c.c.StandardService                            - Stopping service [Tomcat] 
+2022-04-25 18:49:41,037 [main] INFO  o.a.c.h.Http11NioProtocol                          - Stopping ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:49:41,038 [main] INFO  o.a.c.h.Http11NioProtocol                          - Destroying ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:49:41,055 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2022-04-25 18:49:41,097 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter             - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8181 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8181 or configure this application to listen on another port.
+ 
+2022-04-25 18:50:13,721 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Starting SecurityAndLoggingApplication using Java 17.0.2 on LAPTOP-15LLBAB1 with PID 14344 (C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging\target\classes started by gianf in C:\Users\gianf\Desktop\MSC\Proof Workspace\Security-and-Logging) 
+2022-04-25 18:50:13,766 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - No active profile set, falling back to 1 default profile: "default" 
+2022-04-25 18:50:15,290 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2022-04-25 18:50:15,442 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 131 ms. Found 1 JPA repository interfaces. 
+2022-04-25 18:50:17,090 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat initialized with port(s): 8181 (http) 
+2022-04-25 18:50:17,118 [main] INFO  o.a.c.h.Http11NioProtocol                          - Initializing ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:50:17,120 [main] INFO  o.a.c.c.StandardService                            - Starting service [Tomcat] 
+2022-04-25 18:50:17,121 [main] INFO  o.a.c.c.StandardEngine                             - Starting Servlet engine: [Apache Tomcat/9.0.62] 
+2022-04-25 18:50:17,434 [main] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring embedded WebApplicationContext 
+2022-04-25 18:50:17,434 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 3551 ms 
+2022-04-25 18:50:18,070 [main] INFO  o.h.j.i.u.LogHelper                                - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2022-04-25 18:50:18,227 [main] INFO  o.h.Version                                        - HHH000412: Hibernate ORM core version 5.6.8.Final 
+2022-04-25 18:50:18,615 [main] INFO  o.h.a.c.Version                                    - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2022-04-25 18:50:18,903 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Starting... 
+2022-04-25 18:50:19,564 [main] INFO  c.z.h.HikariDataSource                             - HikariPool-1 - Start completed. 
+2022-04-25 18:50:19,598 [main] INFO  o.h.d.Dialect                                      - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect 
+2022-04-25 18:50:21,280 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2022-04-25 18:50:21,296 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2022-04-25 18:50:22,082 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2022-04-25 18:50:22,424 [main] INFO  o.s.s.w.DefaultSecurityFilterChain                 - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@25fcdcc6, org.springframework.security.web.context.SecurityContextPersistenceFilter@123d0816, org.springframework.security.web.header.HeaderWriterFilter@5eb9bf7d, org.springframework.security.web.authentication.logout.LogoutFilter@22ed2886, com.example.security.logging.security.JWTAuthenticationFilter@180fb796, com.example.security.logging.security.JWTAuthorizationFilter@79ae3fb1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4e210016, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@57ed8f95, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7fa8fff, org.springframework.security.web.session.SessionManagementFilter@2f64f99f, org.springframework.security.web.access.ExceptionTranslationFilter@7fa68ff4, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@aca594d] 
+2022-04-25 18:50:23,111 [main] INFO  o.a.c.h.Http11NioProtocol                          - Starting ProtocolHandler ["http-nio-8181"] 
+2022-04-25 18:50:23,204 [main] INFO  o.s.b.w.e.t.TomcatWebServer                        - Tomcat started on port(s): 8181 (http) with context path '' 
+2022-04-25 18:50:23,227 [main] INFO  c.e.s.l.SecurityAndLoggingApplication              - Started SecurityAndLoggingApplication in 10.276 seconds (JVM running for 12.043) 
+2022-04-25 18:51:31,989 [http-nio-8181-exec-1] INFO  o.a.c.c.C.[.[.[/]                                  - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2022-04-25 18:51:31,989 [http-nio-8181-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Initializing Servlet 'dispatcherServlet' 
+2022-04-25 18:51:31,990 [http-nio-8181-exec-1] INFO  o.s.w.s.DispatcherServlet                          - Completed initialization in 1 ms 
+2022-04-25 18:52:44,648 [http-nio-8181-exec-6] INFO  c.e.s.l.c.UserController                           - Retrieve information about all users 
